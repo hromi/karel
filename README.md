@@ -8,6 +8,8 @@ The name "Karel" was given to the project in order to honor work of Czech author
 # Mini HOWTO
 pip3 simplematrixbotlib
 
+pip3 webuiapi
+
 edit & save karel.py
 
 run it with python3 karel.py
