@@ -1,6 +1,10 @@
 # karel
 Karel is a pure python bot bridging matrix rooms of your choice with automatic1111 stable diffusion API.
 
+# Why Karel ?
+The name "Karel" was given to the project in order to honor work of Czech author "Karel Čapek" who in his theatre play "Rossum's Universal Robots" coined the word "robot"
+
+
 # Mini HOWTO
 pip3 simplematrixbotlib
 
@@ -20,3 +24,5 @@ after any user in #ROOM writes
 
 # TO DO
 More (parametrized prompts, integration with Kastalia KMS etc.) to come soon.
+
+Slava Ukrajine
